@@ -1,7 +1,6 @@
 * Apprendre à me servir de orgmode #122
 
 ** DONE Faire un script en python pour tester pygit2 :gd: :bfgd: #123
-
 DEADLINE: <09/02/2015>
 ASSIGN: @Damien
 FOLLOWERS: @Mikael
@@ -11,5 +10,4 @@ Blablafdqnflqnkjqlsdqsd qsdsqdq
 *** Hello
 
 ** NEXT Faire une base de données pour tester sqlite3 avec python
-
 SCHEDULED: <12/02/2015>
